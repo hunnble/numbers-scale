@@ -1,0 +1,9 @@
+{
+  "name": "abbreviation",
+  "version": "0.1.0",
+  "description": "Convert numbers to abbreviated form.",
+  "main": "index.js",
+  "repository": "https://github.com/hunnble/abbreviation.js.git",
+  "author": "hunnble <hante_hunter@163.com>",
+  "license": "MIT"
+}
