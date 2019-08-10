@@ -2,8 +2,20 @@ import { expect } from 'chai'
 import Abbreviate from '../lib/index'
 
 describe('test data structure', () => {
+  it('should validate payload', () => {
+    const number = 'a12'
+    const abbreviated = new Abbreviate(number)
+    expect(abbreviated.isValid()).false
+  })
+
   it('should save raw number', () => {
     const number = 65536
+    const abbreviated = new Abbreviate(number)
+    expect(abbreviated.raw).to.equal(number)
+  })
+
+  it('should save raw string as raw number', () => {
+    const number = '65536'
     const abbreviated = new Abbreviate(number)
     expect(abbreviated.raw).to.equal(number)
   })
