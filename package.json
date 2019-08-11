@@ -1,9 +1,10 @@
 {
-  "name": "abbreviation",
+  "name": "numbers-scale",
   "version": "0.1.0",
-  "description": "Convert numbers to abbreviated form.",
+  "description": "Scale of numbers.",
+  "keywords": ["scale", "number-scale", "number", "scale-of-number"],
   "main": "index.js",
-  "repository": "https://github.com/hunnble/abbreviation.js.git",
+  "repository": "https://github.com/hunnble/numbers-scale.git",
   "author": "hunnble <hante_hunter@163.com>",
   "license": "MIT",
   "scripts": {
