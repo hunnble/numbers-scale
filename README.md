@@ -9,7 +9,7 @@ npm install numbers-scale
 
 ### example
 ```js
-const Scale = require('numbers-scale')
+const { Scale } = require('numbers-scale')
 
 // get scaled instance
 const number = 65536

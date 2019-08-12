@@ -1,9 +1,15 @@
 {
   "name": "numbers-scale",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Scale of numbers.",
-  "keywords": ["scale", "number-scale", "number", "scale-of-number"],
-  "main": "index.js",
+  "keywords": [
+    "scale",
+    "number-scale",
+    "number",
+    "scale-of-number"
+  ],
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "repository": "https://github.com/hunnble/numbers-scale.git",
   "author": "hunnble <hante_hunter@163.com>",
   "license": "MIT",
@@ -18,5 +24,8 @@
     "mocha": "^6.2.0",
     "ts-node": "^8.3.0",
     "typescript": "^3.5.3"
+  },
+  "dependencies": {
+    "numbers-scale": "^0.1.0"
   }
 }

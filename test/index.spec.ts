@@ -1,5 +1,5 @@
 import { expect } from 'chai'
-import Scale from '../lib'
+import { Scale } from '../lib/index'
 
 describe('test data structure', () => {
   it('should validate payload', () => {

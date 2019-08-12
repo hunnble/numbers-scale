@@ -5,7 +5,7 @@ interface Config {
   step: number
 }
 
-export default class Scale {
+export class Scale {
   raw: Payload
   symbols: string[] = ['', 'k', 'M', 'G', 'T', 'P', 'E', 'Z', 'Y']
   step: number = 1000

@@ -542,6 +542,11 @@ number-is-nan@^1.0.0:
   resolved "https://registry.npmjs.org/number-is-nan/-/number-is-nan-1.0.1.tgz#097b602b53422a522c1afb8790318336941a011d"
   integrity sha1-CXtgK1NCKlIsGvuHkDGDNpQaAR0=
 
+numbers-scale@^0.1.0:
+  version "0.1.0"
+  resolved "https://registry.npmjs.org/numbers-scale/-/numbers-scale-0.1.0.tgz#bd3ab7a16a9898e2ea973cd116db0519f000f0ab"
+  integrity sha512-iWBhjAf2fZal5UXvDRhbV4vOkoJNmw5pK05y2LG9gSDvA1BqhJ2+CO62otZ+u+iyC5T65Vj6N92Iii+hg/fsPw==
+
 object-keys@^1.0.11, object-keys@^1.0.12:
   version "1.1.1"
   resolved "https://registry.npmjs.org/object-keys/-/object-keys-1.1.1.tgz#1c47f272df277f3b1daf061677d9c82e2322c60e"
