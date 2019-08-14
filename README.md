@@ -7,8 +7,10 @@
 ![downloads-image](https://img.shields.io/npm/dm/numbers-scale.svg)
 ![downloads-image](https://img.shields.io/npm/dy/numbers-scale.svg)
 ![downloads-image](https://img.shields.io/npm/dt/numbers-scale.svg)
+[![GitHub stars](https://img.shields.io/github/stars/hunnble/numbers-scale)](https://github.com/hunnble/numbers-scale/stargazers)
 
-Scale of numbers.
+Scale of numbers.  
+[Live demo.](https://bit.dev/joshk/numbers-scale/numbers-scale)
 
 ### install
 ```shell
