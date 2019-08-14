@@ -1,5 +1,13 @@
 # numbers-scale
 
+![npm-image](https://img.shields.io/npm/v/numbers-scale.svg)
+[![Build Status](https://travis-ci.org/hunnble/numbers-scale.svg?branch=master)](https://travis-ci.org/hunnble/numbers-scale)
+[![install size](https://packagephobia.now.sh/badge?p=numbers-scale)](https://packagephobia.now.sh/result?p=numbers-scale)
+![downloads-image](https://img.shields.io/npm/dw/numbers-scale.svg)
+![downloads-image](https://img.shields.io/npm/dm/numbers-scale.svg)
+![downloads-image](https://img.shields.io/npm/dy/numbers-scale.svg)
+![downloads-image](https://img.shields.io/npm/dt/numbers-scale.svg)
+
 Scale of numbers.
 
 ### install
