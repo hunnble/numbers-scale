@@ -11,7 +11,7 @@
 Scale of numbers.  
 [Live demo with tests and examples.](https://bit.dev/joshk/numbers-scale/numbers-scale)
 
-### Install
+### Installation
 ```shell
 npm install numbers-scale
 ```
