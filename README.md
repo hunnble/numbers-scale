@@ -1,19 +1,25 @@
 # numbers-scale
 
-[![npm version](https://badge.fury.io/js/numbers-scale.svg)](http://badge.fury.io/js/numbers-scale) 
-[![bit components](https://img.shields.io/badge/dynamic/json.svg?color=6e3991&label=bit%20components&query=payload.totalComponents&url=https%3A%2F%2Fapi.bit.dev%2Fscope%2Fjoshk%2Fnumbers-scale)](https://bit.dev/joshk/numbers-scale/numbers-scale) 
+[![npm version](https://badge.fury.io/js/numbers-scale.svg)](http://badge.fury.io/js/numbers-scale)
+[![bit components](https://img.shields.io/badge/dynamic/json.svg?color=6e3991&label=bit%20components&query=payload.totalComponents&url=https%3A%2F%2Fapi.bit.dev%2Fscope%2Fjoshk%2Fnumbers-scale)](https://bit.dev/joshk/numbers-scale/numbers-scale)
 [![Build Status](https://travis-ci.org/hunnble/numbers-scale.svg?branch=master)](https://travis-ci.org/hunnble/numbers-scale)
 [![install size](https://packagephobia.now.sh/badge?p=numbers-scale)](https://packagephobia.now.sh/result?p=numbers-scale)
-![downloads-image](https://img.shields.io/npm/dw/numbers-scale.svg) 
+![downloads-image](https://img.shields.io/npm/dw/numbers-scale.svg)
 ![downloads-image](https://img.shields.io/npm/dm/numbers-scale.svg)
 [![GitHub stars](https://img.shields.io/github/stars/hunnble/numbers-scale)](https://github.com/hunnble/numbers-scale/stargazers)
 
-Scale of numbers.  
+Scale of numbers.
 [Live demo with tests and examples.](https://bit.dev/joshk/numbers-scale/numbers-scale)
 
 ### Installation
 ```shell
 npm install numbers-scale
+```
+
+If using Deno runtime, skip the installation and import code directly.
+
+```js
+import { Scale } from "https://unpkg.com/numbers-scale@0.1.3/lib/index.ts";
 ```
 
 ### Usage examples

@@ -16,7 +16,8 @@
   "scripts": {
     "build": "tsc",
     "test": "mocha",
-    "cov": "nyc mocha"
+    "cov": "nyc mocha",
+    "eg:deno": "deno run example/deno/index.ts"
   },
   "devDependencies": {
     "@types/chai": "^4.1.7",
